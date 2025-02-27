@@ -8,12 +8,17 @@ In this project, we start with exploratory text analysis including topic modelin
 media and patent data. We then train word and sentence embedding models to better represent 
 cleantech innovation content and develop a question answering and information retrieval system that 
 can help stakeholders facilitate cleantech innovation. The goal of this project is threefold:  
-● Advanced Text Analytics Mastery. Expand applications of NLP techniques, including working with 
+
+- Advanced Text Analytics Mastery.
+Expand applications of NLP techniques, including working with 
 state-of-the-art large language models (LLMs) for deeper text analytics and extracting insights from 
-specialized media and patent texts.  
-● Cleantech Expertise and Innovation Acceleration. Use the analysis of both patent and media 
+specialized media and patent texts.
+
+- Cleantech Expertise and Innovation Acceleration.
+Use the analysis of both patent and media 
 datasets to gain a comprehensive understanding of the cleantech sector and conduct a comparative 
 analysis to identify gaps between market trends and patented technologies and suggest areas for future 
 innovation and research.  
-● Better Communication and Collaboration. Foster the ability to summarize and present complex 
+
+- Better Communication and Collaboration. Foster the ability to summarize and present complex 
 results and promote interdisciplinary collaboration across the cleantech ecosystem. 
