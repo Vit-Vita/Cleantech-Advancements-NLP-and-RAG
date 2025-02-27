@@ -35,3 +35,22 @@ This dual dataset approach provides a unique opportunity to apply NLP techniques
 the cleantech industry, but also to explore the landscape of technological innovation and intellectual 
 property. The main objective is to utilize advanced NLP methods to gain a deeper understanding and 
 facilitate knowledge extraction from this rich textual data.
+
+### Reference Pipeline
+
+#### Stage 1 : Enhanced Data Cleaning, Preprocessing, and Exploratory Analysis  
+- Data Collection and Cleaning
+- Text Preprocessing
+- Exploratory Data Analysis
+- Topic Modeling
+
+#### Stage 2 : Advanced Embedding Models Training and Analysis 
+- Data Preparation for Embeddings
+- Word Embedding Training
+- Sentence Embedding Training
+- Transfer Learning with Advanced Open-Source Models
+
+#### Stage 3 : Implementing a RAG System for Question Answering
+- Generate and Categorize QA Pairs
+- Run RAG Code and Analyze Insights
+- Suggestions for enhancing the RAG System
