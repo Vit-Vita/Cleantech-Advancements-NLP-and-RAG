@@ -1,5 +1,7 @@
 # Accelerating Cleantech Advancements through NLP-powered Text Mining and Knowledge Extraction
 ## From Exploratory Text Analysis to Large Language Models (LLMs) Applications
+
+### Goals
 This project aims to use NLP techniques to accelerate the process of text analysis, 
 knowledge acquisition and innovation in the cleantech sector. NLP technology can play a crucial role in 
 this area as it helps us to extract valuable insights from large amounts of text data. 
@@ -23,6 +25,7 @@ innovation and research.
 - Better Communication and Collaboration. Foster the ability to summarize and present complex 
 results and promote interdisciplinary collaboration across the cleantech ecosystem. 
 
+### Datasets
 To realize the goals of this project, we use two comprehensive datasets: 
 1) The Cleantech Media Dataset, which consists of recent media articles and publications
 
