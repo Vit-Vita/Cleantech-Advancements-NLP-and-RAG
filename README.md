@@ -27,9 +27,9 @@ results and promote interdisciplinary collaboration across the cleantech ecosyst
 
 ### Datasets
 To realize the goals of this project, we use two comprehensive datasets: 
-1) The Cleantech Media Dataset, which consists of recent media articles and publications
+1) The Cleantech Media Dataset, which consists of recent media articles and publications : https://www.kaggle.com/datasets/jannalipenkova/cleantech-media-dataset 
 
-2) The Cleantech Google Patent Dataset, which contains detailed information on cleantech-related patents.
+2) The Cleantech Google Patent Dataset, which contains detailed information on cleantech-related patents: https://www.kaggle.com/datasets/prakharbhandari20/cleantech-google-patent-dataset?resource=download
 
 This dual dataset approach provides a unique opportunity to apply NLP techniques to not only understand the current discourse in 
 the cleantech industry, but also to explore the landscape of technological innovation and intellectual 
