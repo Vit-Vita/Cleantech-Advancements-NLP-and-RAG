@@ -22,3 +22,13 @@ innovation and research.
 
 - Better Communication and Collaboration. Foster the ability to summarize and present complex 
 results and promote interdisciplinary collaboration across the cleantech ecosystem. 
+
+To realize the goals of this project, we use two comprehensive datasets: 
+1) The Cleantech Media Dataset, which consists of recent media articles and publications
+
+2) The Cleantech Google Patent Dataset, which contains detailed information on cleantech-related patents.
+
+This dual dataset approach provides a unique opportunity to apply NLP techniques to not only understand the current discourse in 
+the cleantech industry, but also to explore the landscape of technological innovation and intellectual 
+property. The main objective is to utilize advanced NLP methods to gain a deeper understanding and 
+facilitate knowledge extraction from this rich textual data.
